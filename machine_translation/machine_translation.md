@@ -2075,7 +2075,7 @@ history = model_rnn_final.fit(tmp_x, preproc_french_sentences, batch_size=256,
     110288/110288 [==============================] - 126s - loss: 0.4928 - acc: 0.8465 - val_loss: 0.4758 - val_acc: 0.8517
     Epoch 00462: early stopping
 
-
+## Training Results
 
 ```python
       
